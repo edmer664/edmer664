@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **C++, Java and Machine Learning with Python**
 
-- 👨‍💻 All of my projects are available at [edmer.herokuapp.com](htpps://edmer.herokuapp.com)
+- 👨‍💻 All of my projects are available at [edmer.herokuapp.com](https://edmer.herokuapp.com)
 
 - 📝 I regularly write articles on [edmer.ml](https://edmer.ml)
 
