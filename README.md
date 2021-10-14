@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [(null)]((null))
 
-- ⚡ Fun fact **I'm still single and I use ubuntu btw**
+- ⚡ Fun fact **I don't have life**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
