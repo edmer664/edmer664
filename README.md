@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Edmer</h1>
-<h3 align="center">A Self-Thought Developer</h3>
+<h3 align="center">A Self-Taught Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=edmer664&label=Profile%20views&color=0e75b6&style=flat" alt="edmer664" /> </p>
 
