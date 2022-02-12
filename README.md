@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [(null)]((null))
 
-- ⚡ Fun fact **I don't have life**
+- ⚡ Fun fact **I love coffee**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
