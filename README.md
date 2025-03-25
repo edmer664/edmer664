@@ -7,7 +7,7 @@
 
 I make projects that challenges me and make me learn new things.
 
-- 🔭 I’m currently working at PocketDevs 
+- 🔭 I’m currently working at Boligforeningsweb 
 - 😄 Pronouns: He / Him 
 - 🎞️ My favorite anime: Mirai Nikki
 
